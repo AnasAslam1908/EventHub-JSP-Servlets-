@@ -1,0 +1,14 @@
+# Frontend languages
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+
+# Bootstrap files are typically CSS or JavaScript
+*.scss linguist-language=CSS
+*.js linguist-language=JavaScript
+
+# Backend Java files
+*.java linguist-language=Java
+*.jsp linguist-language=Java
+
+# MySQL scripts
+*.sql linguist-language=SQL
