@@ -1,4 +1,4 @@
-# EventHub-JSP-Servlets-
+# EventHub-JSP-Servlets
 ## Introduction
 
 EventHub is a web-based platform designed to facilitate the smooth organization and participation in various events such as conferences, workshops, and webinars. It provides an easy-to-use interface for administrators to manage events and offers users a seamless experience to browse, register, and provide feedback on events. With real-time updates and advanced analytics, EventHub serves as a comprehensive solution for event management.
